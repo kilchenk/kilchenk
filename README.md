@@ -34,7 +34,7 @@
   <a href="mailto:kirill220420054004@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="linkedin.com/in/kyrylo-ilchenko-05a072265" target="_blank">
+  <a href="https://linkedin.com/in/kyrylo-ilchenko-05a072265](https://www.linkedin.com/in/kyrylo-ilchenko-05a072265?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAED4lMYBnLEpSlTg7HHEKkNFvhZ5jxtmkFQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BPnKwDW5jSt6MmNg6GWR%2FMA%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/Dyrnya" target="_blank">
