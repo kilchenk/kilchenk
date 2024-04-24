@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">My aim is to become a great qualified software engineer.<br><br>In this profile you can find my projects from:<br><br>✪42 Wolfsburg Software Engineering School<br>✪Projects which are interesting to me</h6>
+<h5 align="left">My aim is to become a great qualified software engineer.<br><br>In this profile you can find my projects from:<br><br>✪42 Wolfsburg Software Engineering School<br>✪Projects which are interesting to me</h5>
 
 ###
 
