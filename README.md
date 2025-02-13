@@ -5,12 +5,15 @@
 <h5 align="left">My aim is to become a great qualified software engineer.<br><br>In this profile you can find my projects from:<br><br>✪42 Wolfsburg Software Engineering School<br>✪Projects which are interesting to me</h5>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kilchenk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kilchenk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+ 
+ #
+ 
+ ### Github Stats
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilchenk&locale=en&hide_title=false&layout=compact&theme=dracula&langs_count=6&hide=objective-c,makefile,cmake&)](https://github.com/yarutiun/github-readme-stats)
+      ![yarutiun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kilchenk&show_icons=true&theme=dracula&hide_title=true&hide_rank=false)
+ 
+ #
+ 
 ###
 
 <div align="left">
